@@ -1,15 +1,12 @@
-# Configurable Binary Heap
+# Algorithms: Binary Heap and Sudoku Solver
 
-## Description
+Two algorithm projects written in Python from scratch, without specialised libraries.
 
-A configurable binary heap supporting configurable priority behavior and core heap operations.
+| Project | Folder | Main idea |
+|---|---|---|
+| Configurable Binary Heap (Min/Max) | [`Configurable binary heap`](<Configurable binary heap>) | Array-based heap with O(n) construction |
+| Backtracking Sudoku Solver | [`Sudoku solver`](<Sudoku solver>) | Recursive backtracking with two search heuristics |
 
-## Technologies
+Each folder has its own README with the goals, how to run it and what can be learned from it.
 
-- Python
-
-## Usage
-
-```bash
-python src
-```
+**Skills shown:** Python, data structures, recursion, backtracking, heuristics, time complexity (Big O), performance testing.
